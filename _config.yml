@@ -9,6 +9,24 @@ description: > #
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://holmesatty.com" # the base hostname & protocol for your site
 
+disclaimer: > #
+  PUBLIC NOTICE: The determination of the need for legal services and the choice
+  of a lawyer are extremely important decisions and should not be based solely
+  upon advertisements or self proclaimed expertise. A description or indication
+  of limitation of practice does not mean that any agency or board has certified
+  such lawyer as a specialist or expert in an indicated field of law practice,
+  nor does it mean that such lawyer is necessarily any more expert or competent
+  than any other lawyer. All potential clients are urged to make their own
+  independent investigation and evaluation of any lawyer being considered. This
+  notice is required by rule of the Supreme Court of Iowa.
+
+disclaimer-2: > #
+  Any e-mail communications sent to the Holmes Law Office do not afford
+  attorney-client privilege and will not be treated by the Holmes Law Office as
+  confidential unless you are an existing client. Merely sending electronic mail
+  to the Holmes Law Office does not mean you will be represented, nor does it
+  create an attorney-client relationship.
+
 # Build settings
 markdown: kramdown
 timezone: America/Chicago
