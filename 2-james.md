@@ -1,5 +1,5 @@
 ---
-title: James C. Holmes
+title: About Jim
 permalink: /about-jim/
 ---
 
