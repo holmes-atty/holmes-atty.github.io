@@ -2,12 +2,20 @@
 title: Holmes Law Office
 email: jamesc@holmesatty.com
 description: > #
-  The Holmes Law Office is General Practice located in Cedar Rapids, Iowa. We
-  specialize in business, commercial, and criminal law, contracts, debtor and
-  creditor litigation, real estate, taxation and tax returns, wills, trusts,
-  estate planning and probate law.
+  The Holmes Law Office, in Cedar Rapids, Iowa, specializes in business,
+  commercial, and criminal law, contracts, debtor and creditor litigation, real
+  estate, taxation and tax returns, wills, trusts, estate planning and probate law.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://holmesatty.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+timezone: America/Chicago
+
+# Defaults for build
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
