@@ -1,5 +1,4 @@
 ---
-layout: page
 title: James C. Holmes
 permalink: /about-jim/
 ---
