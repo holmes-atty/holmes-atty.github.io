@@ -2,9 +2,10 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    padding-top: 5px;
+    border-bottom: 1px solid $header-border-light;
     min-height: 56px;
+    background-color: $header-bkgrd-color;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -16,10 +17,10 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: $header-text-color;
 
-    &,
     &:visited {
-        color: $grey-color-dark;
+      color: $header-text-color;
     }
 }
 
@@ -32,7 +33,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $header-text-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -82,6 +83,7 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+            color: $text-color;
         }
     }
 }
@@ -129,6 +131,21 @@
 
 .footer-disclaimers {
   font-size: 10px;
+}
+
+
+/**
+ * Floats
+ */
+.right {
+  float: right;
+
+  @include media-query($on-palm) {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /**
