@@ -1,17 +1,32 @@
+// Typography
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+// Layouts
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+// Colors
+$black:    #111111;
+$white:    #ffffff;
+$navy:     #001f3f;
+$blue:     #0074d9;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+// Color abstractions
+$text-color:          $black;
+$background-color:    $white;
+$brand-color:         $navy;
+$link-color:          $blue;
+$header-text-color:   $white;
+$header-bkgrd-color:  $navy;
+$header-border-dark:  lighten($navy, 40%);
+$header-border-light: darken($navy, 25%);
+$image-border:        $grey-color-light;
 
 // Width of the content area
 $content-width:    1000px;
