@@ -13,7 +13,7 @@ The Holmes Law Office is located in the Guaranty Building in downtown Cedar Rapi
 ## E-mail
   [jamesc@holmesatty.com](mailto:jamesc@holmesatty.com)
 
-## Telephoone
+## Telephone
   [(319)-365-6259](tel:319-365-6259)
 
 ## Fax
