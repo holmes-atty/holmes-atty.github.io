@@ -2,7 +2,8 @@
 title: About Jim
 permalink: /about-jim/
 ---
-{% img image right three-hundred /assets/james_holmes.jpeg "James C. Holmes" %}
+
+![James C. Holmes](/assets/james_holmes.jpeg)
 
 James C. Holmes was born in 1960 in Cedar Rapids, Iowa.
 

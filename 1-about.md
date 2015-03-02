@@ -5,7 +5,7 @@ permalink: /about/
 
 The history of the Holmes Law Office in Cedar Rapids, Iowa, can be traced back to 1919 when Stewart Holmes graduated from Iowa Law School and joined his uncle and two others in the firm of Redmond, Stewart, Penningroth and Holmes.
 
-{% img image right three-hundred /assets/james_t_holmes.jpeg "James T. Holmes" %}
+![James T. Holmes](/assets/james_t_holmes.jpeg)
 
 Stewart Holmes practiced law as a sole practitioner beginning in 1937.
 
