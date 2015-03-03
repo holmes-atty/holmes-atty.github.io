@@ -8,10 +8,6 @@ img {
   float: right;
 
   @include media-query($on-palm) {
-
-  }
-
-  @include media-query($on-palm) {
     float: none;
     display: block;
     margin-left: auto;
