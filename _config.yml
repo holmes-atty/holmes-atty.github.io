@@ -7,7 +7,7 @@ description: > #
   commercial, and criminal law, contracts, debtor and creditor litigation, real
   estate, taxation and tax returns, wills, trusts, estate planning and probate law.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://holmesatty.com" # the base hostname & protocol for your site
+url: "http://www.holmesatty.com" # the base hostname & protocol for your site
 
 disclaimer: > #
   PUBLIC NOTICE: The determination of the need for legal services and the choice
