@@ -1,1 +1,0 @@
-# jwfuller.github.io
