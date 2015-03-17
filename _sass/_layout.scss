@@ -148,6 +148,22 @@
   }
 }
 
+.left {
+  float: left;
+
+  @include media-query($on-palm) {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.clear {
+  clear: both;
+  margin-bottom: 20px;
+}
+
 /**
  * Contact Us
  */

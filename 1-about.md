@@ -3,14 +3,16 @@ title: About the Firm
 permalink: /about/
 redirect_from: "/attorneys_jamest.htm"
 ---
+<div class="right"><img class="wrapped" src="/assets/stewart_holmes.jpg" alt="Stewart Holmes"><div class="caption">Stewart Holmes</div></div>
 
 The history of the Holmes Law Office in Cedar Rapids, Iowa, can be traced back to 1919 when Stewart Holmes graduated from Iowa Law School and joined his uncle and two others in the firm of Redmond, Stewart, Penningroth and Holmes.
-
-![James T. Holmes](/assets/james_t_holmes.jpeg)
 
 Stewart Holmes practiced law as a sole practitioner beginning in 1937.
 
 In 1951, James T. Holmes graduated from Duke Law School and joined his father, Stewart, in the practice of law. Together, they formed the Holmes and Holmes law firm. Stewart died in 1959, and James T. continued his law practice as a sole practitioner.
+
+<div class="clear"></div>
+<div class="left"><img class="wrapped" src="/assets/james_t_holmes.jpeg" alt="James T. Holmes"><div class="caption">James T. Holmes</div></div>
 
 In 1988, a Holmes and Holmes law firm was formed again when James C. joined his father, James T. Holmes, in the law practice.
 

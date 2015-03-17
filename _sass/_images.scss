@@ -3,9 +3,12 @@ img {
   border: $image-border 1px solid;
   margin: 5px 7px;
   max-width: 100%;
-  width: 300px;
   height: auto;
   float: right;
+
+  &.wrapped {
+    float: none;
+  }
 
   @include media-query($on-palm) {
     float: none;
@@ -17,4 +20,9 @@ img {
       display: none;
     }
   }
+}
+
+.caption {
+  text-align: center;
+  font-style: italic;
 }
