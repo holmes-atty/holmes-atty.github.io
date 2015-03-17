@@ -1,6 +1,7 @@
 ---
 title: About Jim
 permalink: /about-jim/
+redirect_from: "/attorneys_jamesc.htm"
 ---
 
 ![James C. Holmes](/assets/james_holmes.jpeg)

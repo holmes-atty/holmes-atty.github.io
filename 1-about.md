@@ -1,6 +1,7 @@
 ---
 title: About the Firm
 permalink: /about/
+redirect_from: "/attorneys_jamest.htm"
 ---
 
 The history of the Holmes Law Office in Cedar Rapids, Iowa, can be traced back to 1919 when Stewart Holmes graduated from Iowa Law School and joined his uncle and two others in the firm of Redmond, Stewart, Penningroth and Holmes.
