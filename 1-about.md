@@ -16,6 +16,6 @@ In 1951, James T. Holmes graduated from Duke Law School and joined his father, S
 
 In 1988, a Holmes and Holmes law firm was formed again when James C. joined his father, James T. Holmes, in the law practice.
 
-In 2008, James T. Holmes retired from the practice. James T. Holmes died in 2014. James C. Holmes continues the practice as The Holmes Law Office.
+In 2008, James T. Holmes retired from the practice. James T. Holmes died in 2014. James C. Holmes continues the practice as Holmes Law Office.
 
-The firm has been in the same building, first known as the Cedar Rapids Savings Bank Building, now the Guaranty Bank Building, since its opening in 1919.
+From 1919 until 2018, the firm was located in the Cedar Rapids Savings Bank Building, later known as the Guaranty Bank Building.  In June of 2018, Holmes Law Office moved to the Cherry Building in the New Bohemia district of Cedar Rapids.
